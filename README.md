@@ -64,11 +64,57 @@ Check the image below:
 ![](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/RevenueCal.png)
 
 **Secondly,** I added a new column called Transaction_Month to extract the month names from the Transaction_Date.
+```
+ =TEXT(MONTH(B2),"MMM")
+```
 Check the image below:
 ![](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/MonthExtract.png)
 
 **Thirdly,** I also added a new column called Transaction_Hour whose value is an extract hour from the Transactions_Time column.
+```
+=HOUR(C2)
+```
 ![](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/HourExtract.png)
 
 ### Now, it was ready for the actual analysis while answering the business question and problem.
+
+
+
+
+---
+
+## Insights
+1.	Revenue Growth:
+- Revenue has shown a steady and significant increase over the past six months (January to June) across all three stores in New York City.
+2.	Busiest Days:
+-	Monday, Thursday, and Friday are the busiest days of the week, with a noticeable increase in orders.
+-	Saturday, however, experiences the lowest number of orders.
+3.	Peak Hours:
+-	Morning hours (7 AM to 10 AM) consistently see a rise in orders across all days.
+-	Sales begin to decline towards the evening, particularly around 8 PM.
+4.	Popular Product Categories:
+-	The most ordered product categories are Tea, Coffee, Bakery items, and Hot Chocolate.
+5.	Top-Selling Products:
+-	Specific popular products include Brewed Chai Tea, Gourmet Brewed Coffee, and Barista Espresso.
+-	These items are especially popular in the morning but remain in demand during other periods (afternoon and evening) in the order listed.
+
+## Recommendation
+1.	Optimize Operations for Peak Times:
+-	Prepare adequately for the busiest days (Monday, Thursday, and Friday) and peak hours (7 AM to 10 AM).
+-	Ensure sufficient stock of high-demand products by coordinating with vendors and suppliers in advance.
+-	Schedule staff strategically to handle increased customer traffic during these times to ensure smooth operations and customer satisfaction.
+2.	Enhance Customer Engagement:
+-	Implement a customer feedback survey to gather insights into their preferences and suggestions.
+-	Use this feedback to tailor offerings, improve service quality, and strengthen customer relationships.
+3.	Drive Revenue Growth:
+- Explore targeted promotions or loyalty programs for the slower days (e.g., Saturday) to boost sales.
+-	Leverage the popularity of top products to create combo deals or special offers, especially during peak hours.
+By focusing on these strategies, BSCo can enhance operational efficiency, improve customer satisfaction, and drive long-term revenue growth.
+
+## Conclusion
+The analysis of the transaction data from January to June 2023 has provided valuable insights into BSCo’s operations and customer preferences. The steady revenue growth and identification of peak days, hours, and popular products highlight areas of strength for the business. 
+However, opportunities for improvement remain, such as optimizing operations for peak periods and leveraging customer feedback to enhance engagement. 
+By implementing the recommended strategies, BSCo can capitalize on its strengths, address operational inefficiencies, and 
+foster sustainable growth, ensuring a consistently satisfying experience for its customers and increased profitability for its franchise owners.
+
 
