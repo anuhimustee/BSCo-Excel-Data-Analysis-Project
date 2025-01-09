@@ -17,7 +17,9 @@ The franchise owners Mustafah Bin Shuaibu aim to stay competitive in a growing c
 The aim of this data analysis project is to consolidate my Excel skills in helping businesses solve problems. Gain insights in order to make data-driven decisions. For this project, my goal is to create a comprehensive and interactive dashboard that provides actionable insights into customer behavior, sales performance, and operational efficiency across all locations. The dashboard will help __Bin Shuaib 8Coffee Oasis__ identify **patterns**, **trends**, and **opportunities** to improve **revenue** and __streamline operations.__
 
 ### About Dataset:  
-The dataset used for this project was of a single table data structure that contains 149,116 records and 11 fields. Understanding the contents of the dataset is key and knowing what each field represents gives a holistic idea of what I am working with. See the image 
+The dataset used for this project was of a single table data structure that contains 149,116 records and 11 fields. Understanding the contents of the dataset is key and knowing what each field represents gives a holistic idea of what I am working with. You can check the raw dataset [here](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/BSCo%20Transactions%20Data.xlsx). 
+Here is a Snapshot of the raw dataset
+![](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/Snapshot.png)
 
 ## Problem Statement
 BSCo are struggling to understand the granular details of their sales performance across three NYC locations, which was hindering its ability to make data-driven decisions. They ask key questions to get insights which are:
