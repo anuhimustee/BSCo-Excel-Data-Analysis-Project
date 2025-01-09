@@ -42,4 +42,33 @@ The raw dataset that was used for this analysis project was already cleaned with
 -	No Duplicate Values-
 -	Issue of Data Types and Standardization. ( i.e. some columns like the Transaction date, Unit price were not in the correct datatype so had to change and standardization them)
 
+## Modelling:  
+As a data analyst, I soon came to realize that this single table has data redundancy (repeated data) and can therefore  be normalized in order to reduce data redundancy and ensure data integrity. 
+Loading the data into power query, I was able to achieve the 1NF,2NF & 3NF of normalization which at the end of the day provided me with 3 separate and thus creating and building a model using Power Pivot in Excel. _**See image below.**_
+
+The model is a star schema and thus there are 2-dimension tables and 1 fact table. The dimension tables are all joined to the fact table with a one-many relationships.
+For easy access and reference, I also created a calender table from the Power Pivot which automatically gives all dates drill down hierarchy such as Day,Year,Month, Day of the Week Num, Day of the week name etc. _**See image below.**_
+
+|                                              Original Model                                        |                                 After Normalizaation & Modelling                                     |
+|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------- |
+| ![](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/Initial%20Model.png) | ![](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/ModellingComplete.png) |
+
+### Data Analysis & Visuals
+Given the problem statement above as well as the business analysis question,  there are couple of additions to be made to the dataset that will help in answering and analyzing the question and problem(s).
+
+**Firstly,** I added a new column called Revenue by multiplying the Unit_Price Column with the Transation_Qty.
+```
+Revenue =H2*D2
+```
+Check the image below:
+![](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/RevenueCal.png)
+
+**Secondly,** I added a new column called Transaction_Month to extract the month names from the Transaction_Date.
+Check the image below:
+![](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/MonthExtract.png)
+
+**Thirdly,** I also added a new column called Transaction_Hour whose value is an extract hour from the Transactions_Time column.
+![](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/HourExtract.png)
+
+### Now, it was ready for the actual analysis while answering the business question and problem.
 
