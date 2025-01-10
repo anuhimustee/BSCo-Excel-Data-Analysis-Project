@@ -61,7 +61,7 @@ For easy access and reference, I also created a calender table from the Power Pi
 ## Data Analysis & Visuals
 Given the problem statement above as well as the business analysis question,  there are couple of additions to be made to the dataset that will help in answering and analyzing the question and problem(s).
 
-**Firstly,** I added a new column called Revenue by multiplying the Unit_Price Column with the Transation_Qty.
+**Firstly,** I added a new column called Revenue by multiplying the **Unit_Price** Column with the **Transation_Qty**.
 ```
 Revenue =H2*D2
 ```
@@ -69,7 +69,7 @@ _**Check the image below:**_
 
 ![](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/RevenueCal.png)
 
-**Secondly,** I added a new column called Transaction_Month to extract the month names from the Transaction_Date.
+**Secondly,** I added a new column called **Transaction_Month** which was to extract the month names from the Transaction_Date.
 ```
  =TEXT(MONTH(B2),"MMM")
 ```
@@ -77,7 +77,7 @@ _**Check the image below:**_
 
 ![](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/MonthExtract.png)
 
-**Thirdly,** I also added a new column called Transaction_Hour whose value is an extract hour from the Transactions_Time column.
+**Thirdly,** I also added a new column called **Transaction_Hour** whose value is an extract hour from the Transactions_Time column.
 ```
 =HOUR(C2)
 ```
