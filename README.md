@@ -21,6 +21,7 @@ For this project, my goal is to create a comprehensive and interactive dashboard
 The dataset used for this project was of a single table data structure that contains 149,116 records and 11 fields. Understanding the contents of the dataset is key and knowing what each field represents gives a holistic idea of what I am working with. You can check the raw dataset [here](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/BSCo%20Transactions%20Data.xlsx). 
 
 Here is a Snapshot of the raw dataset.
+
 ![](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/Snapshot.png)
 
 ## Problem Statement
@@ -65,6 +66,7 @@ Given the problem statement above as well as the business analysis question,  th
 Revenue =H2*D2
 ```
 _**Check the image below:**_
+
 ![](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/RevenueCal.png)
 
 **Secondly,** I added a new column called Transaction_Month to extract the month names from the Transaction_Date.
@@ -72,6 +74,7 @@ _**Check the image below:**_
  =TEXT(MONTH(B2),"MMM")
 ```
 _**Check the image below:**_
+
 ![](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/MonthExtract.png)
 
 **Thirdly,** I also added a new column called Transaction_Hour whose value is an extract hour from the Transactions_Time column.
@@ -89,6 +92,7 @@ _**Check the image below:**_
   across all three stores in New York City.
 
  _**See the image below:**_
+ 
 - ![](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/Monthtly%20trends.png)
   
 **2.	Busiest Days:**
@@ -96,6 +100,7 @@ _**Check the image below:**_
 -	Saturday, however, experiences the lowest number of orders.
 
  _**See the image below:**_
+ 
   ![](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/Days%20of%20Week.png)
  	
 **3.	Peak Hours:**
@@ -111,6 +116,7 @@ _**Check the image below:**_
      -	**Hot Chocolate**
   
  _**See the image below:**_
+ 
   ![](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/Popular_Products2.png)
  	
 **5.	Top-Selling Products:**
@@ -121,6 +127,7 @@ _**Check the image below:**_
 -	These items are especially popular in the morning but remain in demand during other periods (afternoon and evening) in the order listed.
 -	
  _**See the image below:**_
+
  	 ![](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/By_Product_Type.png)
  	
 ---
