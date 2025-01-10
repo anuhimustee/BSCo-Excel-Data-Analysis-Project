@@ -19,7 +19,8 @@ For this project, my goal is to create a comprehensive and interactive dashboard
 
 ### About Dataset:  
 The dataset used for this project was of a single table data structure that contains 149,116 records and 11 fields. Understanding the contents of the dataset is key and knowing what each field represents gives a holistic idea of what I am working with. You can check the raw dataset [here](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/BSCo%20Transactions%20Data.xlsx). 
-Here is a Snapshot of the raw dataset
+
+Here is a Snapshot of the raw dataset.
 ![](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/Snapshot.png)
 
 ## Problem Statement
