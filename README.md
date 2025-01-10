@@ -109,7 +109,7 @@ _**Check the image below:**_
   ![](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/PeakHour_Graph.png)
  	
 **4.	Popular Product Categories:**
--	The most ordered product categories are
+The most ordered product categories are
      -	**Tea**,
      -	**Coffee**,
      -	**Bakery items**,
@@ -120,11 +120,11 @@ _**Check the image below:**_
   ![](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/Popular_Products2.png)
  	
 **5.	Top-Selling Products:**
--	Specific popular products include
+Specific popular products include
    -	**Brewed Chai Tea**,
    -	**Gourmet Brewed Coffee,**
    -	**Barista Espresso.**
--	These items are especially popular in the morning but remain in demand during other periods (afternoon and evening) in the order listed.
+These items are especially popular in the morning but remain in demand during other periods (afternoon and evening) in the order listed.
   
  _**See the image below:**_
 
@@ -138,7 +138,7 @@ The image below is a snapshot of the Interactive Dashboard Design.
 ![](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/Dashboard.png)
 
 In order to interact with the dashboard using the fliters such as **By Location**, **By Time_Periods**, **By Month** and **Product Categiry**, 
-Kindly download the Excel file from here ![Dyanmic Dashboard](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/BSCo%20Transactions%20Data.xlsx).
+Kindly download the Excel file from here [](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/BSCo%20Transactions%20Data.xlsx).
 
 
 ## Recommendation
