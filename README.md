@@ -47,7 +47,7 @@ The raw dataset that was used for this analysis project was already cleaned with
 -	No Duplicate Values-
 -	Issue of Data Types and Standardization. ( i.e. some columns like the Transaction date, Unit price were not in the correct datatype so had to change and standardization them)
 
-## Modelling:  
+## Data Modelling:  
 As a data analyst, I soon came to realize that this single table has data redundancy (repeated data) and can therefore  be normalized in order to reduce data redundancy and ensure data integrity. 
 Loading the data into power query, I was able to achieve the 1NF,2NF & 3NF of normalization which at the end of the day provided me with 3 separate and thus creating and building a model using Power Pivot in Excel. _**See image below.**_
 
@@ -160,7 +160,9 @@ By focusing on these strategies, BSCo can enhance **operational efficiency**, **
 ---
 
 ## Conclusion
-The analysis of the transaction data from January to June 2023 has provided valuable insights into BSCo’s operations and customer preferences. The steady revenue growth and identification of peak days, hours, and popular products highlight areas of strength for the business. 
+The analysis of the transaction data from January to June 2023 has provided valuable insights into BSCo’s operations and customer preferences. 
+The steady revenue growth and identification of peak days, hours, and popular products highlight areas of strength for the business. 
+
 However, opportunities for improvement remain, such as optimizing operations for peak periods and leveraging customer feedback to enhance engagement. 
 By implementing the recommended strategies, BSCo can capitalize on its strengths, address operational inefficiencies, and 
 foster sustainable growth, ensuring a consistently satisfying experience for its customers and increased profitability for its franchise owners.
