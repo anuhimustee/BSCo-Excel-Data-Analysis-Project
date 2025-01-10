@@ -127,7 +127,7 @@ _**Check the image below:**_
 
 The image below is a snapshot of the Interactive Dashboard Design.
 
-![](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/Snapshot.png)
+![](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/Dashboard.png)
 
 In order to interact with the dashboard using the fliters such as **By Location**, **By Time_Periods**, **By Month** and **Product Categiry**, 
 Kindly download the Excel file from here ![Dyanmic Dashboard](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/BSCo%20Transactions%20Data.xlsx).
