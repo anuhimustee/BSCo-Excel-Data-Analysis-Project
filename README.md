@@ -125,7 +125,7 @@ _**Check the image below:**_
    -	**Gourmet Brewed Coffee,**
    -	**Barista Espresso.**
 -	These items are especially popular in the morning but remain in demand during other periods (afternoon and evening) in the order listed.
--	
+  
  _**See the image below:**_
 
  	 ![](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/By_Product_Type.png)
@@ -154,7 +154,7 @@ Kindly download the Excel file from here ![Dyanmic Dashboard](https://github.com
 **3.	Drive Revenue Growth:**
 - Explore targeted promotions or loyalty programs for the slower days **(e.g. Saturday)** to boost sales.
 -	Leverage the popularity of **top products** to create combo deals or special offers, especially during peak hours.
--	
+  
 By focusing on these strategies, BSCo can enhance **operational efficiency**, **improve customer satisfaction**, and drive long-term **revenue growth**.
 
 ---
