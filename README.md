@@ -146,7 +146,7 @@ The image below is a snapshot of the Interactive Dashboard Design.
 <p style="text-align: center"><img src="https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/Dashboard1.png"></p>
 
 In order to interact with the dashboard using the fliters such as **By Location**, **By Time_Periods**, **By Month** and **Product Category**, 
-Kindly download the Excel file from here [](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/Bin%20Shuaibu%20Coffee%20Oasis.xlsx).
+Kindly download the Excel file from [here](https://github.com/anuhimustee/BSCo-Excel-Data-Analysis-Project/blob/main/Bin%20Shuaibu%20Coffee%20Oasis.xlsx).
 
 ---
 
